@@ -1,0 +1,133 @@
+.bg{
+	height: 570px;
+	width: 100%;
+	background-image: url('https://cdn.vectorstock.com/i/preview-1x/24/10/wood-shelf-on-brick-wall-background-neon-light-vector-27852410.webp');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+}
+
+
+
+
+
+.container{
+/*	height: 0%;*/
+	width: 30%;
+	border: solid red 3px;
+	border-radius:50px 50px 50px 50px ;
+	background-color: white;
+	display: inline-block;
+	margin-left: 80px;
+	margin-top: 50px;
+	margin-right: 10px;
+	
+	
+}
+.label{
+
+	 text-align:center;
+	 color:blue;
+	 font-size: 30px;
+	 font-weight: bold;
+	 margin-left: 100px;
+	 padding-top: 10px;
+	 
+
+	
+}
+.standard-input1{
+	border: solid brown 3px;
+	border-radius: 10px;
+	margin-top:20px ;
+	height:35px ;
+	width: 300px;
+	margin-left: 25px;
+}
+.standard-input2{
+	border: solid brown 3px;
+	border-radius: 10px;
+	height:35px ;
+	width: 300px;
+	margin-top: 30px;
+	margin-left:25px ;
+}
+
+.btn{
+
+	background-color: blue;
+	border-radius: 30px 0px 30px 0px;
+	border:solid black 2px;
+	height: 50px;
+	width:150px ;
+	margin-left: 100px;
+	margin-top: 25px;
+	margin-bottom: 70px;
+	font-size: 20px;
+	color: white;
+
+}
+
+.container_1 {
+	
+height:65%;
+width: 25%;
+background-color:;
+margin-top:70px;
+margin-left: 20px;
+border-radius: 10px;
+display: inline-block;
+border-top: solid yellow 9px;
+border-bottom: solid yellow 9px;
+border-left: solid white; 2px;
+border-right: solid white 2px;
+
+float: left;
+
+
+}
+.container_2 {
+	
+height:65%;
+width: 25%;
+background-color:;
+margin-top:70px;
+margin-right: 40px;
+border-radius: 10px;
+display: inline-block;
+border-top: solid yellow 9px;
+border-bottom: solid yellow 9px;
+float:right;
+border-left: solid white; 1px;
+border-right: solid white; 1px;
+}
+
+.img{
+  width: 50%;
+  height: :100%;
+  margin: 10px 10px 40px 80px;
+  border-radius: 50%;
+  border-top: solid 10px orange;
+  border-bottom: solid 10px orange;
+
+}
+
+.h1{
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+
+}
+.img2{
+  width: 50%;
+  height: :100%;
+  margin: 10px 40px 40px 80px;
+  border-radius: 50%;
+  border-top: solid 10px orange;
+  border-bottom: solid 10px orange;
+}
+.text {
+	color:yellow;
+	margin-left: 200px;
+
+}
+
